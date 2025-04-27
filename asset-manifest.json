@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/my-lab-website/static/css/main.a4316cba.css",
+    "main.js": "/my-lab-website/static/js/main.124fd94c.js",
+    "static/js/453.50a71e9c.chunk.js": "/my-lab-website/static/js/453.50a71e9c.chunk.js",
+    "static/media/home-first-img.png": "/my-lab-website/static/media/home-first-img.6970434815fcbcb6c508.png",
+    "static/media/home-who-img.png": "/my-lab-website/static/media/home-who-img.77f2e1f28002e0f56e5c.png",
+    "static/media/news2.jpg": "/my-lab-website/static/media/news2.4f720e9889ac5dbb4164.jpg",
+    "static/media/news1.webp": "/my-lab-website/static/media/news1.49e82c62ddaf1f78e76b.webp",
+    "static/media/news3.jpg": "/my-lab-website/static/media/news3.e990637530882931e0a3.jpg",
+    "static/media/home-first-bg.png": "/my-lab-website/static/media/home-first-bg.f311799baf01549abab0.png",
+    "static/media/Logo.svg": "/my-lab-website/static/media/Logo.4b984b6475e55c847e82bf23ba0123e6.svg",
+    "static/media/Instagram.svg": "/my-lab-website/static/media/Instagram.8a5f25bc985b68f91adb9312feeac1fe.svg",
+    "static/media/Address.svg": "/my-lab-website/static/media/Address.b74b29c37341f78995be105eb452c60d.svg",
+    "static/media/Phone.svg": "/my-lab-website/static/media/Phone.125bb96c601a228f727c603cd9f13626.svg",
+    "static/media/Telegram.svg": "/my-lab-website/static/media/Telegram.4c1eca5cb51c5bdcaf15290846f90ee9.svg",
+    "index.html": "/my-lab-website/index.html",
+    "static/media/Facebook.svg": "/my-lab-website/static/media/Facebook.d172a3dbd4e99e26c76c66aa044c48e7.svg",
+    "main.a4316cba.css.map": "/my-lab-website/static/css/main.a4316cba.css.map",
+    "main.124fd94c.js.map": "/my-lab-website/static/js/main.124fd94c.js.map",
+    "453.50a71e9c.chunk.js.map": "/my-lab-website/static/js/453.50a71e9c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a4316cba.css",
+    "static/js/main.124fd94c.js"
+  ]
+}
