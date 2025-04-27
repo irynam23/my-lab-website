@@ -1,0 +1,53 @@
+@import "../variables";
+@import "../general";
+
+.one-card-news {
+  &__news-section__img {
+    position: relative;
+    height: 202px;
+    padding: 0 0 58% 0;
+    @media screen and (min-width: $desktop) {
+      height: 332px;
+    }
+  }
+
+  &__news-section__img img {
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  &__news-section__content-wrapper {
+    display: flex;
+    flex-direction: column;
+    height: 218px;
+    margin-top: 16px;
+    @media screen and (min-width: $desktop) {
+      height: 215px;
+      margin-top: 24px;
+    }
+  }
+  &__news-section__text-wrapper {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 6;
+    text-overflow: ellipsis;
+  }
+  &__news-section__name {
+    font-weight: 800;
+    font-size: 20px;
+    line-height: 120%;
+    color: $primary-color;
+    margin-bottom: 12px;
+    @media screen and (min-width: $desktop) {
+      font-size: 24px;
+    }
+  }
+  &__news-section__text {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.3;
+  }
+}
